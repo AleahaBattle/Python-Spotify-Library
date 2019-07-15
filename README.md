@@ -1,1 +1,1 @@
-# Python-Spotify-Library
+# Python Spotify Library
